@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntegerTechTest</string>
+    <string name="facebook_app_id">502053987890832</string>
+    <string name="fb_login_protocol_scheme">fb502053987890832</string>
+    <string name="username">UserName</string>
+    <string name="email">Email</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="profile">profile</string>
+    <string name="logout">Logout</string>
+    <string name="login_with_either_google_sign_in_or_facebook">Login with either Google Sign In or Facebook</string>
+
+</resources>

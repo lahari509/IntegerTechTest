@@ -1,0 +1,147 @@
+{
+  "project_info": {
+    "project_number": "799731666800",
+    "firebase_url": "https://lahari-91ecd.firebaseio.com",
+    "project_id": "lahari-91ecd",
+    "storage_bucket": "lahari-91ecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799731666800:android:5ea28e2b52322f543349b5",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799731666800-ktr3qq4t5f9siv4t1v83v4f2vbqrv791.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkrh5pf1Lz2eX4uJi377h9QVTE20HEzE"
+        },
+        {
+          "current_key": "AIzaSyAVoshY1XVgWMCLqeMa8cicnb50InuW7Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799731666800-ktr3qq4t5f9siv4t1v83v4f2vbqrv791.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799731666800-c7mpbsd63k60qtrm5im8l073uaa045qc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lahari.ios",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799731666800:android:2eee10ee57a4da6e3349b5",
+        "android_client_info": {
+          "package_name": "com.example.lahariareti.journalfirestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799731666800-1g5sq49d3e543jn8lb1ufn0gvccobu4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lahariareti.journalfirestoreapp",
+            "certificate_hash": "fef4ddc005f03140926c02759da2a55fa1ea36bf"
+          }
+        },
+        {
+          "client_id": "799731666800-ktr3qq4t5f9siv4t1v83v4f2vbqrv791.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkrh5pf1Lz2eX4uJi377h9QVTE20HEzE"
+        },
+        {
+          "current_key": "AIzaSyAVoshY1XVgWMCLqeMa8cicnb50InuW7Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799731666800-ktr3qq4t5f9siv4t1v83v4f2vbqrv791.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799731666800-c7mpbsd63k60qtrm5im8l073uaa045qc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lahari.ios",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799731666800:android:4422d366d26913e63349b5",
+        "android_client_info": {
+          "package_name": "com.test.integertechtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799731666800-rbuj9jjos1oge6ooeacdgljiicssp2ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.integertechtest",
+            "certificate_hash": "fef4ddc005f03140926c02759da2a55fa1ea36bf"
+          }
+        },
+        {
+          "client_id": "799731666800-ktr3qq4t5f9siv4t1v83v4f2vbqrv791.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkrh5pf1Lz2eX4uJi377h9QVTE20HEzE"
+        },
+        {
+          "current_key": "AIzaSyAVoshY1XVgWMCLqeMa8cicnb50InuW7Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799731666800-ktr3qq4t5f9siv4t1v83v4f2vbqrv791.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799731666800-c7mpbsd63k60qtrm5im8l073uaa045qc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lahari.ios",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
